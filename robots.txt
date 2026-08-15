@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-7te2t8.kilat77nufc.cyou/sitemap.xml
